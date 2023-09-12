@@ -8,8 +8,8 @@ sidebar_position: 1
 
 - Identity Provider (IdP) for GatorApps (in progress project, a collection of apps to add joy and convenience to campus life)
 - MERN stack, Redux, Material UI, AWS
-- Implemented centralized session management to allow seamless user auth across all apps with no additional SAML
-- Sign in once at account.gatorapps.org to access all apps under *.gatorapps.org (or authorized external origins); sign out in any app to sign out everywhere
+- Implemented centralized session management for seamless user auth across all apps with no additional SAML
+- Sign in once at account.gatorapps.org to access all apps under *.gatorapps.org (or authorized external origins); sign out in any app to securely sign out everywhere
 
 <p float="left">
   <img alt="Sign in page" src="https://portfolio-lukexli-com.s3.us-east-1.amazonaws.com/img/ga_account-sign_in.jpg" width="50%" />
