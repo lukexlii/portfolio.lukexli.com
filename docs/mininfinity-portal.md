@@ -3,9 +3,11 @@ sidebar_position: 2
 ---
 
 # Mininfinity Portal
+
 :::tip Latest production version
 [https://portal.mininfinity.org.cn](https://portal.mininfinity.org.cn)
 :::
+
 - Volunteer admission and CMS portal for the Mininfinity Education Program and Foundation
 
 <p float="left">
@@ -31,13 +33,13 @@ sidebar_position: 2
 </p>
 
 <p float="left">
-  <img alt="Decision letter" src="https://portfolio-lukexli-com.s3.us-east-1.amazonaws.com/img/mfportal-review_screening.jpg" width="50%" />
-  <img alt="Email communications" src="https://portfolio-lukexli-com.s3.us-east-1.amazonaws.com/img/mfportal-review_immersive.jpg" width="50%" />
+  <img alt="Admission officer-side review" src="https://portfolio-lukexli-com.s3.us-east-1.amazonaws.com/img/mfportal-review_screening.jpg" width="50%" />
+  <img alt="Applicant details" src="https://portfolio-lukexli-com.s3.us-east-1.amazonaws.com/img/mfportal-review_immersive.jpg" width="50%" />
   Admission officer-side review flows
 </p>
 
 <p float="left">
-  <img alt="Decision letter" src="https://portfolio-lukexli-com.s3.us-east-1.amazonaws.com/img/mfportal-sso.jpg" width="50%" />
-  <img alt="Email communications" src="https://portfolio-lukexli-com.s3.us-east-1.amazonaws.com/img/mfportal-mfa.jpg" width="50%" />
+  <img alt="SSO authentication for staff members" src="https://portfolio-lukexli-com.s3.us-east-1.amazonaws.com/img/mfportal-sso.jpg" width="50%" />
+  <img alt="Admins 2FA page" src="https://portfolio-lukexli-com.s3.us-east-1.amazonaws.com/img/mfportal-mfa.jpg" width="50%" />
   Staff members sign in with existing enterprise accounts (one-tap on registered devices); admins must complete 2FA
 </p>
