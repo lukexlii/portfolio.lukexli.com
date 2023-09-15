@@ -83,7 +83,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'javascript:void alert(String.fromCharCode(77,121,32,101,109,97,105,108,58,32,119,101,98,45,99,111,110,116,97,99,116,64,108,117,107,101,120,108,105,46,99,111,109))',
+            href: 'javascript:void alert(`Feel free to email me at ${String.fromCharCode(119, 101, 98, 45, 99, 111, 110, 116, 97, 99, 116, 64, 108, 117, 107, 101, 120, 108, 105, 46, 99, 111, 109)}`)',
             label: 'Email',
             position: 'right',
             target: '_self'
