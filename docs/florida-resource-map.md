@@ -23,12 +23,12 @@ sidebar_position: 3
 
 <p float="left">
   <img alt="Resource details page" src="https://portfolio-lukexli-com.s3.us-east-1.amazonaws.com/img/frm-resource_details.jpg" width="50%" />
-  <img alt="Resource owner sign in page" src="https://portfolio-lukexli-com.s3.us-east-1.amazonaws.com/img/frm-manage_pop_up.jpg" width="50%" />
+  <img alt="Resource owner can manage their resource info" src="https://portfolio-lukexli-com.s3.us-east-1.amazonaws.com/img/frm-manage_pop_up.jpg" width="50%" />
   View resource details
 </p>
 
 <p float="left">
-  <img alt="Homepage" src="https://portfolio-lukexli-com.s3.us-east-1.amazonaws.com/img/frm-manage_sign_in.jpg" width="50%" />
-  <img alt="Location consent dialog" src="https://portfolio-lukexli-com.s3.us-east-1.amazonaws.com/img/frm-manage_dashboard.jpg" width="50%" />
-  Resource owners sign in to update their resources
+  <img alt="Resource owner sign in page" src="https://portfolio-lukexli-com.s3.us-east-1.amazonaws.com/img/frm-manage_sign_in.jpg" width="50%" />
+  <img alt="Admin dashboard" src="https://portfolio-lukexli-com.s3.us-east-1.amazonaws.com/img/frm-manage_dashboard.jpg" width="50%" />
+  Resource owners sign in to manage / update their resource info
 </p>
